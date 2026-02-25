@@ -83,7 +83,7 @@ Ejemplo de body:
 {
   "tipo": "Tormenta",
   "nivel": "NARANJA",
-  "zona": "Costa",
+  "zona": "Madrid",
   "mensaje": "Ráfagas fuertes y lluvia intensa",
   "fechaInicio": "2026-02-01T10:00:00",
   "fechaFin": "2026-02-01T18:00:00"
